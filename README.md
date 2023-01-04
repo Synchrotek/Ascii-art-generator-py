@@ -1,5 +1,5 @@
 <h1 align="center"><strong>ascii-art-generator-python3</strong></h1>
-<p><h2 align="center">In this repository The main.py file receives an image as input and process it to produce an ascii-art</h2></p>
+<p><h2 align="center">In this repository The main.py file receives an image as input and process it to produce an ascii-text</h2></p>
 
 <br>
 <details close> 
