@@ -34,16 +34,14 @@ Requirements
 * Linux or macOS or Windows
 * [ Python 3 ](https://www.python.org/downloads/)Interpreter
 * [ Pillow ](https://pypi.org/project/Pillow/)Library
-
-<br>
+<p></p>
 
 Setup
 ============
 * Download the [ Project files ](https://github.com/PuL5TaR/ascii-art-generator-python3/archive/refs/heads/main.zip)
 * Extract the downloaded zip file
 * go to the extracted directory
-
-<br>
+<p></p>
 
 How to use
 ============
