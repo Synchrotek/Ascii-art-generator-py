@@ -15,7 +15,7 @@
   </table>
 </details>
 
-<details close> 
+<details open> 
   <summary><h2>Demo 2 (click)</h2></summary>
   <table>
     <tr>
