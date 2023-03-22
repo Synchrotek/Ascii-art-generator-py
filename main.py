@@ -10,7 +10,7 @@ output_path = "output.txt"       # Relative path for the output textfile
 
 def get_arguments():
     global image_path, inputScaleFactor, output_path
-    if len(sys.argv) > 4:
+    if len(sys.argv) > 1:
         image_path = sys.argv[1]
     if len(sys.argv) > 2:
         inputScaleFactor = float(sys.argv[2])
