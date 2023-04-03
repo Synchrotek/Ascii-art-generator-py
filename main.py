@@ -23,7 +23,7 @@ def get_arguments():
 
 
 def generate_ascii_art(image_path, output_path):
-    ScaleFactor = 0.4
+    ScaleFactor = 0.5
     oneCharWidth = 10
     oneCharHeight = 18
     ScaleFactor = float((inputScaleFactor*1.5)/100)
