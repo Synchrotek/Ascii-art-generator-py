@@ -64,7 +64,7 @@ you may need to zom out the outputText file inorder to get the image
 <h3>Note</h3>
 <ul>
 <li>You can run the "main.py" without passing any argument at runtime</li>
-<li>just change the top contents inside "main.py" file and run it</li>
+<li>just change the top contents inside "main.py" file and run it tthen</li>
 </ul>
 
 <br>
