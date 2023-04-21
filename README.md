@@ -5,7 +5,7 @@
   <summary><h2>Demo 1 (click)</h2></summary>
   <table>
     <tr>
-      <th>Below is a demo in which the main.py file receives an image, outputTextSize, outputTextfilePath as commandline argument
+      <th>Below is a demo in which the main.py file receives an images, outputTextSize, outputTextfilePath as commandline argument
       which produces the ascii-art in output.txt as shown</th>
     </tr>
     <tr>
