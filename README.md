@@ -7,7 +7,6 @@
     <tr>
       <th>Below is a demo in which the main.py file receives an image, outputTextSize, outputTextfilePath as commandline argument
       which produces the ascii-art in output.txt as shown</th>
-      
     </tr>
     <tr>
     <th>
