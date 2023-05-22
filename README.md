@@ -13,7 +13,7 @@
     <img alt="Demo-image-1" src="https://user-images.githubusercontent.com/77431114/210548639-cad1226a-3e1a-47a5-ad68-96d6c1e2258f.png"/></th>
     </tr>
   </table>
-</details>
+</details >
 
 <details open> 
   <summary><h2>Demo 2 (click)</h2></summary>
