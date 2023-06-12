@@ -2,7 +2,7 @@
 <p><h2 align="center">In this repository The 'main.py' file receives an image as input and process it to produce an ascii-text</h2></p>
 
 <details close> 
-  <summary><h2>Demo 1 (click)</h2></summary>
+  <summary><h2>Demo 1 (click)</h2></summary> 
   <table>
     <tr>
       <th>Below is a demo in which the main.py file receives an image, OutputTextSize, outputTextfilePath as commandline argument
