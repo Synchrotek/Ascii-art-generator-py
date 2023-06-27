@@ -5,7 +5,7 @@ from PIL import Image
 '''change these values according to your needs'''
 image_path = "Imgs/dreamCar.jpg"  # Relative path of input image
 inputScaleFactor = 30            # scale/size of the output text range=(0-100)
-output_path = "output.txt"       # Relative path for the output textfile
+output_path = "output2.txt"       # Relative path for the output textfile
 
 def get_arguments():
     global image_path, inputScaleFactor, output_path
