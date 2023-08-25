@@ -38,7 +38,7 @@ Requirements
 
 Setup
 ============
-* Download the [ Project files ](https://github.com/PuL5TaR/ascii-art-generator-python3/archive/refs/heads/main.zip)
+* Download the [ Project files ](https://github.com/Synchrotek/ascii-art-generator-python3/archive/refs/heads/main.zip)
 * Extract the downloaded zip file
 * go to the extracted directory
 <p></p>
