@@ -1,6 +1,6 @@
 import os
 import sys
-from PIL import Image 
+from PIL import Image
 
 '''change these values according to your needs'''
 image_path = "Imgs/dreamCar.jpg"  # Relative path of input image
